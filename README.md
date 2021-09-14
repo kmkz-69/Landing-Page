@@ -1,4 +1,4 @@
-![](Landing-Page/blob/main/Screen.PNG)
+![Capture](https://user-images.githubusercontent.com/67412667/133237935-df1ad826-b475-47b4-962f-543d3768da40.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
